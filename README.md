@@ -50,25 +50,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shakil0501&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
 
----
-
-## ✍️ Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
----
-
-## 🔥 Visitor Count
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=shakil0501&icon=0&color=0" />
-</p>
-
----
 
 <!-- Proudly created with 💖 by GPRM (https://gprm.itsvg.in) -->
